@@ -10,7 +10,7 @@ This project automatically generates AI-powered storytelling videos by:
 **Sohaib Essam** — [GitHub Profile](https://github.com/Sohaib010) 
 
 ### Project structure
----
+
 ├── bot.py          # Main script for running the bot logic
 
 ├── run.sh          # Shell script to run the bot
@@ -19,8 +19,8 @@ This project automatically generates AI-powered storytelling videos by:
 
 ├── README.md       # Project documentation
 
-└── requirements.txt# Python dependencies
----
+└── requirements.txt     # Python dependencies
+
 ## 🔧 Features
 
 ✅ FusionBrain integration for image generation  
