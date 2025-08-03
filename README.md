@@ -78,8 +78,13 @@ run.bat
 python bot.py
 ```
 ### 💡 Ideas for improvement
+
 ✅ Subtitle overlay support
+
 ✅ Selectable TTS voices
+
 ✅ Web dashboard for uploading Excel files
+
 ✅ Preview mode before sending to Telegram
+
 ✅ YouTube Shorts export pipeline
