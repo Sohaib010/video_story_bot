@@ -62,7 +62,7 @@ Place your Excel file (e.g. data.xlsx) in the project root. It should contain th
 In the bot.py (or your main file):
 
 Replace the placeholders:
-
+```
 CHAT_ID = ["YOUR_CHAT_ID_1", "YOUR_CHAT_ID_2"]
 
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
@@ -70,7 +70,7 @@ BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 API_KEY = "YOUR_FUSIONBRAIN_API_KEY"
 
 SECRET_KEY = "YOUR_FUSIONBRAIN_SECRET_KEY"
-
+```
 ### 5. Run the script
 
 ### On Windows:
