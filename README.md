@@ -49,19 +49,15 @@ Place your Excel file (e.g. data.xlsx) in the project root. It should contain th
 - Video Description
 - Hashtags
 
-
 ### 4. Set up API credentials
 In the bot.py (or your main file):
 
 Replace the placeholders:
 
-python
-Копировать
-Редактировать
-API_KEY = "YOUR_FUSIONBRAIN_API_KEY"
-SECRET_KEY = "YOUR_FUSIONBRAIN_SECRET"
+CHAT_ID = ["YOUR_CHAT_ID_1", "YOUR_CHAT_ID_2"]
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = ["YOUR_TELEGRAM_CHAT_ID"]
+API_KEY = "YOUR_FUSIONBRAIN_API_KEY"
+SECRET_KEY = "YOUR_FUSIONBRAIN_SECRET_KEY"
 
 ### 5. Run the script
 
