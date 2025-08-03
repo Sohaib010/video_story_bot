@@ -11,7 +11,12 @@ This project automatically generates AI-powered storytelling videos by:
 
 ### Project structure
 ---
-
+├── bot.py          # Main script for running the bot logic
+├── run.sh          # Shell script to run the bot
+├── data3.xlsx      # Input file with text for image/audio generation
+├── README.md       # Project documentation
+└── requirements.txt# Python dependencies
+---
 ## 🔧 Features
 
 ✅ FusionBrain integration for image generation  
