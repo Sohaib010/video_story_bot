@@ -1,0 +1,9 @@
+requests
+pillow
+edge-tts
+moviepy
+pandas
+numpy
+pysrt
+openai-whisper
+whisper
