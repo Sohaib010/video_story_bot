@@ -72,6 +72,10 @@ run.bat
 ```bash
 ./run.sh
 ```
+⚠️ Don't forget to make the file executable:
+```bash
+chmod +x run.sh
+```
 ### Or manually:
 ```bash
 python bot.py
